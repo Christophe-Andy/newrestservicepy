@@ -1,0 +1,51 @@
+{
+	'Banque': 'BICEC',
+	'AnneeReference': 2020,
+	'ScenarioId': 2,
+	' Resultat': [
+		{
+			'AnneeRef': 2020,
+			'FPB_durs_cet1': 49080,
+			'FPB_additionnels_cet1': 0,
+			'FPB_t1': 49080,
+			'FPT_2': 4653,
+			'FPE': 53733,
+			'T_actif': 726545,
+			'Ratio_cet1': 7,
+			'Interpretation': 'Bon'
+		},
+		{
+			'Annee1': 2021,
+			'FPB_durs_cet1': 245400,
+			'FPB_additionnels_cet1': 0,
+			'FPB_t1': 245400,
+			'FPT_2': 23265,
+			'FPE': 268665,
+			'T_actif': 3632725,
+			'Ratio_cet1': 36,
+			'Interpretation': 'Bon'
+		},
+		{
+			'Annee2': 2022,
+			'FPB_durs_cet1': 289566,
+			'FPB_additionnels_cet1': 0,
+			'FPB_t1': 588960,
+			'FPT_2': 55836,
+			'FPE': 644796,
+			'T_actif': 8718540,
+			'Ratio_cet1': 88,
+			'Interpretation': 'Bon'
+		},
+		{
+			'Annee3': 2023,
+			'FPB_durs_cet1': 304962,
+			'FPB_additionnels_cet1': 0,
+			'FPB_t1': 736200,
+			'FPT_2': 69795,
+			'FPE': 805995,
+			'T_actif': 10898175,
+			'Ratio_cet1': 110,
+			'Interpretation': 'Bon'
+		}
+	]
+}
